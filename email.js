@@ -1,1 +1,2 @@
-const mail=require('@sendgrid/mail');
+const nodemailer = require('nodemailer');
+mail.setApi
